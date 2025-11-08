@@ -39,6 +39,4 @@ This project implements an intelligent chatbot solution for e-commerce platforms
 - Google Gemini API key
 - E-commerce website access
 
- **Import Workflow**
-   
-    `ecommerce-chatbot-workflow.json` 
+ 
